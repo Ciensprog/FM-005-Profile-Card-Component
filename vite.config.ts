@@ -10,7 +10,7 @@ import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/REPO_NAME/',
+  base: '/FM-005-Profile-Card-Component/',
   plugins: [react()],
   resolve: {
     alias: {
