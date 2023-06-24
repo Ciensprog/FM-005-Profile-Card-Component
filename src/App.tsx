@@ -37,6 +37,15 @@ export function App() {
                   alt="Profile"
                 />
               </figure>
+              <div className="text-lg">
+                <div className="flex justify-center gap-2">
+                  <h3 className="font-bold">Victor Crest</h3>
+                  <span className="text-grey-light">26</span>
+                </div>
+                <div className="mb-7 mt-2 text-center text-grey-light text-sm">
+                  London
+                </div>
+              </div>
             </section>
           </div>
         </div>
