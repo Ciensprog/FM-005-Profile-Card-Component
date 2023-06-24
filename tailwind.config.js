@@ -1,5 +1,10 @@
 const colors = {
-  //
+  grey: {
+    normal: '#2E3349',
+  },
+  lightblue: {
+    normal: '#19A1AE',
+  },
 }
 
 /*
