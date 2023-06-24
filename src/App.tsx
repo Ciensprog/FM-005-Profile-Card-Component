@@ -29,6 +29,15 @@ export function App() {
                 />
               </figure>
             </header>
+            <section className="">
+              <figure className="h-[6.625rem] mb-5 -mt-12 mx-auto w-[6.625rem]">
+                <img
+                  src="profile.jpg"
+                  className="border-[0.3125rem] h-full border-white rounded-full w-full"
+                  alt="Profile"
+                />
+              </figure>
+            </section>
           </div>
         </div>
       </main>
