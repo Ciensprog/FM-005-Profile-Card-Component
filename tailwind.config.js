@@ -22,6 +22,9 @@ export default {
       backgroundColor: colors,
       borderColor: colors,
       colors,
+      fontSize: {
+        xxs: '0.625rem',
+      },
       minHeight: {
         screen: '100vh',
       },
