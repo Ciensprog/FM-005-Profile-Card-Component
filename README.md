@@ -6,8 +6,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Table of contents
 
-- [Frontend Mentor Simple Template](#frontend-mentor-simple-template) <-- Remove this line
-- [Frontend Mentor - Profile Card Component](#frontend-mentor---challenge_name)
+- [Frontend Mentor - Profile Card Component](#frontend-mentor---profile-card-component)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
