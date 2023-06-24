@@ -47,6 +47,28 @@ export function App() {
                 </div>
               </div>
             </section>
+            <footer className="border-t border-[#E8E9EC] px-12 py-6">
+              <ul className="flex justify-between">
+                <li className="flex flex-col gap-2 text-center">
+                  <span className="font-bold text-lg">80K</span>
+                  <span className="text-grey-light text-xxs tracking-[0.09375rem]">
+                    Followers
+                  </span>
+                </li>
+                <li className="flex flex-col gap-2 text-center">
+                  <span className="font-bold text-lg">803K</span>
+                  <span className="text-grey-light text-xxs tracking-[0.09375rem]">
+                    Likes
+                  </span>
+                </li>
+                <li className="flex flex-col gap-2 text-center">
+                  <span className="font-bold text-lg">1.4K</span>
+                  <span className="text-grey-light text-xxs tracking-[0.09375rem]">
+                    Photos
+                  </span>
+                </li>
+              </ul>
+            </footer>
           </div>
         </div>
       </main>
