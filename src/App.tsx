@@ -14,10 +14,12 @@ export function App() {
           <img
             src="oval-top.png"
             className="absolute h-[61rem] left-0 max-w-none opacity-50 pointer-events-none rounded-full top-0 -translate-x-[82%] -translate-y-[72%] w-[61rem] -z-10"
+            alt="Oval"
           />
           <img
             src="oval-bottom.png"
             className="absolute h-[61rem] left-full max-w-none opacity-25 pointer-events-none rounded-full top-full -translate-x-[22%] -translate-y-[16%] w-[61rem] -z-10"
+            alt="Oval"
           />
           <div className="bg-slate-50 overflow-hidden rounded-2xl">
             <header className="h-[8.75rem]">
@@ -39,7 +41,7 @@ export function App() {
               </figure>
               <div className="text-lg">
                 <div className="flex justify-center gap-2">
-                  <h3 className="font-bold">Victor Crest</h3>
+                  <h1 className="font-bold">Victor Crest</h1>
                   <span className="text-grey-light">26</span>
                 </div>
                 <div className="mb-7 mt-2 text-center text-grey-light text-sm">
