@@ -1,5 +1,6 @@
 const colors = {
   grey: {
+    light: '#6B7082',
     normal: '#2E3349',
   },
   lightblue: {
